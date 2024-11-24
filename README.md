@@ -23,8 +23,8 @@ In this mini-project, you'll build a command-line calculator in Python that perf
 2. **Set up a Python environment**:
    ```bash
    pyenv install 3.9.1    # Skip if already installed
-   pyenv virtualenv 3.9.1
-   calc-env pyenv activate calc-env
+   pyenv virtualenv 3.9.1 calc-env
+   pyenv activate calc-env
    ```
 
 3. **Run the calculator in the Command-Line**:
