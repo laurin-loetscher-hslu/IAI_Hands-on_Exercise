@@ -6,3 +6,6 @@ test:
 
 run:
 	python main.py $(operation) $(a) $(b)
+
+laurin:
+	pytest tests/
